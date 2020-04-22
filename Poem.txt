@@ -1,4 +1,4 @@
-The Rainbow
+ The Rainbow and Non-Rainbow
 
 Green
 Yellow
@@ -6,4 +6,6 @@ Red
 Blue
 White
 Star
+Indigo
+violet
 These are the colours of the rainbow
