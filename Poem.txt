@@ -5,5 +5,5 @@ Yellow
 Red
 Blue
 White
-
+Star
 These are the colours of the rainbow
